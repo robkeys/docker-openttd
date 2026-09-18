@@ -58,5 +58,4 @@ services:
 https://github.com/rogerrum/docker-openttd/issues
 
 ## Contribute
-* I am happy for any feedback! Create issues, discussions, ... feel free and involve!
-* Send me a PR
+* see original repo for details: https://github.com/rogerrum/docker-openttd
